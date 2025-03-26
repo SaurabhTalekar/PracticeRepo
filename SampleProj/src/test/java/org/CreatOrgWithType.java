@@ -9,6 +9,7 @@ public class CreatOrgWithType {
 		
 		System.out.println("Execute org Type");
 		System.out.println("Ele 1");
+		System.out.println("type 2");
 	
 		
 	}
