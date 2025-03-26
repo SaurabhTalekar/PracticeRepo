@@ -8,6 +8,7 @@ public class CreatOrgWithType {
 	public void createOrgType() {
 		
 		System.out.println("Execute org Type");
+		System.out.println("Add ele 2 by sam");
 	
 		
 	}
