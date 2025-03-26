@@ -2,16 +2,31 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
+<<<<<<< HEAD
+  <suite started-at="2025-03-26T14:17:49 IST" name="Default suite" finished-at="2025-03-26T14:17:50 IST" duration-ms="74">
+=======
   <suite started-at="2025-03-26T14:20:42 IST" name="Default suite" finished-at="2025-03-26T14:20:42 IST" duration-ms="52">
+>>>>>>> branch 'master' of https://github.com/SaurabhTalekar/PracticeRepo.git
     <groups>
     </groups>
+<<<<<<< HEAD
+    <test started-at="2025-03-26T14:17:49 IST" name="Default test" finished-at="2025-03-26T14:17:50 IST" duration-ms="74">
+      <class name="org.CreateOrg">
+        <test-method signature="createOrg()[pri:0, instance:org.CreateOrg@55182842]" started-at="2025-03-26T14:17:50 IST" name="createOrg" finished-at="2025-03-26T14:17:50 IST" duration-ms="15" status="PASS">
+=======
     <test started-at="2025-03-26T14:20:42 IST" name="Default test" finished-at="2025-03-26T14:20:42 IST" duration-ms="52">
       <class name="org.CreatOrgWithType">
         <test-method signature="createOrgType()[pri:0, instance:org.CreatOrgWithType@55182842]" started-at="2025-03-26T14:20:42 IST" name="createOrgType" finished-at="2025-03-26T14:20:42 IST" duration-ms="11" status="PASS">
+>>>>>>> branch 'master' of https://github.com/SaurabhTalekar/PracticeRepo.git
           <reporter-output>
           </reporter-output>
+<<<<<<< HEAD
+        </test-method> <!-- createOrg -->
+      </class> <!-- org.CreateOrg -->
+=======
         </test-method> <!-- createOrgType -->
       </class> <!-- org.CreatOrgWithType -->
+>>>>>>> branch 'master' of https://github.com/SaurabhTalekar/PracticeRepo.git
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
