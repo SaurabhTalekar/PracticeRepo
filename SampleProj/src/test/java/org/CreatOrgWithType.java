@@ -14,7 +14,6 @@ public class CreatOrgWithType {
 		
 		System.out.println("Addesd by the TL");
 		
-		System.out.println("Addesd by the TL2");
 		
 	}
 
