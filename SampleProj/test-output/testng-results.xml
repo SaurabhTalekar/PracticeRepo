@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-03-26T13:33:04 IST" name="Default suite" finished-at="2025-03-26T13:33:04 IST" duration-ms="47">
+  <suite started-at="2025-03-26T14:17:49 IST" name="Default suite" finished-at="2025-03-26T14:17:50 IST" duration-ms="74">
     <groups>
     </groups>
-    <test started-at="2025-03-26T13:33:04 IST" name="Default test" finished-at="2025-03-26T13:33:04 IST" duration-ms="47">
-      <class name="contact.createContact">
-        <test-method signature="createcon()[pri:0, instance:contact.createContact@76505305]" started-at="2025-03-26T13:33:04 IST" name="createcon" finished-at="2025-03-26T13:33:04 IST" duration-ms="11" status="PASS">
+    <test started-at="2025-03-26T14:17:49 IST" name="Default test" finished-at="2025-03-26T14:17:50 IST" duration-ms="74">
+      <class name="org.CreateOrg">
+        <test-method signature="createOrg()[pri:0, instance:org.CreateOrg@55182842]" started-at="2025-03-26T14:17:50 IST" name="createOrg" finished-at="2025-03-26T14:17:50 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- createcon -->
-      </class> <!-- contact.createContact -->
+        </test-method> <!-- createOrg -->
+      </class> <!-- org.CreateOrg -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
